@@ -6,7 +6,7 @@ import React from 'react';
 function Header() {
     return (
       <header>
-        <div className="logo">Tu Logo o Nombre</div>
+        <div className="logo">FILMEX</div>
 
       </header>
     );
