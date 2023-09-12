@@ -2,7 +2,7 @@ import React from 'react'
 import {Link} from 'react-router-dom'
 import './Nav.css'
 
-function Nav (){
+export default function Nav (){
     return (
         <nav className="navegador">
         <div className="container-fluid">
@@ -28,4 +28,3 @@ function Nav (){
         </nav>
     )
 }
-export default Nav
